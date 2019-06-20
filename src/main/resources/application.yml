@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: PRISMIC
+prismic:
+  api:
+    url: https://afrinnov.prismic.io/api
+    token:
+    client:
+      id:
+      secret:  
+  
